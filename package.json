@@ -1,0 +1,11 @@
+{
+  "name": "zki",
+  "version": "0.0.7",
+  "author": "Nikša Mihaica",
+  "main": "zki.js",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.5",
+    "node-forge": "^1.3.1"
+  }
+}
